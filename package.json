@@ -1,0 +1,25 @@
+{
+  "name": "mynodejs",
+  "version": "1.0.0",
+  "description": "My first NodeJS project",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon app.js",
+    "start-server": "node app.js"
+  },
+  "keywords": [
+    "NodeJS",
+    "npm",
+    "ES6",
+    "JavaScript",
+    "REST",
+    "API",
+    "GraphQL"
+  ],
+  "author": "Vinod Kumar Nair",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^1.19.1"
+  }
+}
